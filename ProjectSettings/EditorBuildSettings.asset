@@ -11,4 +11,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TankBlankScene.unity
     guid: b8c19e933da51404580277377b9e7e6e
+  - enabled: 1
+    path: Assets/Change&addedStuff/Scenes/Maps/CityTownMap.unity
+    guid: 0e92d75018c5d8348bee193a2fd0c136
+  - enabled: 1
+    path: Assets/Change&addedStuff/Scenes/Maps/DevTestMap.unity
+    guid: e6763e24e79e55545867e9e25b7f651b
+  - enabled: 1
+    path: Assets/Change&addedStuff/Scenes/Maps/DryDesertMap.unity
+    guid: ec39c23c40b377e42b33869298961055
+  - enabled: 1
+    path: Assets/Change&addedStuff/Scenes/Maps/MazeMap.unity
+    guid: d86ef0bb46fd80142a6e69681fc87b15
+  - enabled: 1
+    path: Assets/Change&addedStuff/Scenes/Maps/RuinsMap.unity
+    guid: 0f18c6691c707eb4e8800dc2c43e5f56
   m_configObjects: {}
